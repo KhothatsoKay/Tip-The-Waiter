@@ -6,5 +6,5 @@
 
 ## Live Demo
 
-<a href="https://khothatsokay.github.io/Tip-The-Waiter/"><img src="assets/tipCalc.png">Open Live Demo</a>
+<a href="https://khothatsokay.github.io/Tip-The-Waiter/"><img src="assets/tipCalc.png" alt="">Open Live Demo</a>
 
