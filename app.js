@@ -2,6 +2,8 @@ window.onload = () =>
 {
     document.querySelector("#calculate").onclick = calculateTip;
 }
+
+
 function calculateTip(){
     let amount = document.querySelector("#amount").value;
     let people = document.querySelector("#people").value;
